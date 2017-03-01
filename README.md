@@ -1,2 +1,4 @@
 # hello-world
-Just an repository
+
+Hi!
+I just begin studying codes in FCC.
